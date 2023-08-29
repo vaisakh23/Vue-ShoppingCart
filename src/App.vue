@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import { ref } from "vue";
 import { RouterView } from "vue-router";
 import HeaderCp from "@/components/Header.vue";
 import CartButtonVue from "@/components/CartButton/CartButton.vue";
-import { ref } from "vue";
+import FooterVue from "@/components/Footer.vue";
 
 const isCartOpen = ref(false);
 const toggleCartOpen = () => {
@@ -13,7 +14,6 @@ const toggleCartOpen = () => {
 <template>
   <CartButtonVue :isCartOpen="isCartOpen" :toggleCartOpen="toggleCartOpen" />
   <HeaderCp :toggleCartOpen="toggleCartOpen" />
-  <main class="py-5">
-    <RouterView />
-  </main>
+  <RouterView />
+  <FooterVue />
 </template>

@@ -15,7 +15,7 @@ const inventory = computed(()=> {
   <div class="h-96 px-10 mb-10">
     <Carousel />
   </div>
-  <div class="flex flex-col bg-[#f7f8fa] mb-6">
+  <div class="flex flex-col bg-[#f7f8fa] pb-10">
     <div class="py-7  flex justify-center mb-6">
       <div class="text-center w-2/5">
         <h2 class="text-2xl font-semibold font-serif mb-2">
