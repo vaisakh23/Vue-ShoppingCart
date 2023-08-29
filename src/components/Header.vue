@@ -9,7 +9,7 @@ const linkClass =
 </script>
 
 <template>
-  <header class="bg-gray-800 flex justify-between px-12 py-6 h-16 items-center mb-2">
+  <header class="bg-gray-800 flex justify-between px-12 py-6 h-16 items-center mb-2 sticky top-0 z-10">
     <img src="../assets/logo.svg" alt="logo" class="h-48" />
     <nav class="">
       <RouterLink to="/" :class="linkClass">
