@@ -1,0 +1,121 @@
+[
+  {
+    "id": 0,
+    "name": "Green Leaf Lettuce",
+    "price": { "USD": 3.69, "NOK": 26.68 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FZRynchJY%2FGreen-Leaf-Lettuce-each.jpg&w=640&q=75"
+  },
+  {
+    "id": 1,
+    "name": "Rainbow Chard",
+    "price": { "USD": 7.07, "NOK": 17.43 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FZ5yQ47YB%2FRainbow-Chard-Package-per-lb.jpg&w=640&q=75"
+  },
+  {
+    "id": 2,
+    "name": "Clementine",
+    "price": { "USD": 18.12, "NOK": 15.82 },
+    "category": "fruits",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FMTPyNwQC%2FClementine-5ct.jpg&w=640&q=75"
+  },
+  {
+    "id": 3,
+    "name": "Rainbow Peppers",
+    "price": { "USD": 20.85, "NOK": 16.66 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FqRpDcpsy%2FRainbow-Peppers-4ct.jpg&w=640&q=75"
+  },
+  {
+    "id": 4,
+    "name": "Blueberry",
+    "price": { "USD": 50.96, "NOK": 62.33 },
+    "category": "fruits",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FL8L3XGcP%2FBlackberries-1-25-qt.jpg&w=640&q=75"
+  },
+  {
+    "id": 5,
+    "name": "Lettuce",
+    "price": { "USD": 13.26, "NOK": 62.5 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FGhRtkNVr%2FLettuce-1lb.jpg&w=640&q=75"
+  },
+  {
+    "id": 6,
+    "name": "Organic Baby Carrot",
+    "price": { "USD": 15, "NOK": 72.74 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FSNmQX9Yx%2FOrganic-Baby-Carrot-1oz.jpg&w=640&q=75"
+  },
+  {
+    "id": 7,
+    "name": "Organic Ginger",
+    "price": { "USD": 17.53, "NOK": 99.43 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FRZDvbbsW%2FOrganic-Ginger-Root-per-lb.jpg&w=640&q=75"
+  },
+  {
+    "id": 8,
+    "name": "Pineapple",
+    "price": { "USD": 24.94, "NOK": 88.29 },
+    "category": "fruit",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2F8Ck40tYr%2FPineapple-1-5lb.jpg&w=640&q=75"
+  },
+  {
+    "id": 9,
+    "name": "Pumpkin",
+    "price": { "USD": 16.45, "NOK": 69.53 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2F2Sc5N568%2FMini-Pumpkin-Box-each.jpg&w=750&q=75"
+  },
+  {
+    "id": 10,
+    "name": "Orange",
+    "price": { "USD": 10.95, "NOK": 96.53 },
+    "category": "fruit",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FyNpW3y8J%2Fkomola-Orange-imported-50-gm-1-kg.webp&w=640&q=75"
+  },
+  {
+    "id": 11,
+    "name": "Cherry Tomato",
+    "price": { "USD": 12.61, "NOK": 65.74 },
+    "category": "vegetable",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FQCJX48wD%2FOrange-Cherry-Tomato-5qt.jpg&w=750&q=75"
+  },
+  {
+    "id": 12,
+    "name": "Paka Pape",
+    "price": { "USD": 21.62, "NOK": 35.22 },
+    "category": "fruit",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FV636DsMm%2Fpaka-pape-50-gm-1-kg.webp&w=640&q=75"
+  },
+  {
+    "id": 13,
+    "name": "Gerber-Organic",
+    "price": { "USD": 18.32, "NOK": 83.08 },
+    "category": "jam",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2Fj5W2HnDM%2FGerber-Organic.jpg&w=640&q=75"
+  },
+  {
+    "id": 14,
+    "name": "Marley coffee",
+    "price": { "USD": 25.08, "NOK": 89.69 },
+    "category": "coffee",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FDwWJ8cTk%2FMarley-coffee-coffee-Whole-Beans-Medium-Dark-Espresso-8-oz.jpg&w=640&q=75"
+  },
+  {
+    "id": 15,
+    "name": "Ling Cod Steak",
+    "price": { "USD": 30.11, "NOK": 89.69 },
+    "category": "meat",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FcCVTpyzL%2FLing-Cod-Steak-1lb.jpg&w=640&q=75"
+  },
+  {
+    "id": 16,
+    "name": "Chilean Sea Bass",
+    "price": { "USD": 45.08, "NOK": 89.69 },
+    "category": "meat",
+    "image": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FxTjmhVRK%2FAhi-Tuna-Steaks-per-lb.jpg&w=640&q=75"
+  }
+]
