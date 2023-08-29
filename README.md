@@ -2,12 +2,12 @@
 
 
 ## Dependencies
- -vue
- -vuex
- -tailwind
- -vite
- -typescript
- -headlessui
+ - vue
+ - vuex
+ - tailwind
+ - vite
+ - typescript
+ - headlessui
 
 ## Project Setup
 
